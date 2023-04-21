@@ -1,5 +1,4 @@
 <?php
-
 /*
  * Plugin Name: Custom Post Type
  * Description: Custom Post Type name is Resource with taxonomy.
